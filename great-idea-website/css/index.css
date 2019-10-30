@@ -22,7 +22,7 @@ time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
-}
+}*/
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
@@ -64,3 +64,54 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+ ul{
+	margin: 50px;
+
+}
+
+.list {
+	color: grey;
+	padding-left: 8%;
+	text-align: center;
+}
+
+h1 {
+	font-size: 65px;
+}
+
+
+
+.start-button {
+	width: 180px;
+	height: 35px;
+	padding: 7px;
+	border: 1px solid black;
+	text-align: center;
+	margin: 0 auto;
+}
+
+
+
+.main-info {
+	border: 1px solid black;
+	border-top-style: solid;
+
+}
+
+#main-section img {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.parent-main{
+	display:inline-block;
+	vertical-align: middle;
+	margin: 0% 5% 0% 0%;
+}
+
+#main-section {
+	width: 100%;
+	text-align: center;
+}
+
